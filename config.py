@@ -77,12 +77,12 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://telegra.ph/file/41a777f089288f7ad2571.jpg"
-PING_IMG_URL = "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+START_IMG_URL = "https://graph.org/file/64b768cff9c90461692d5.jpg"
+PING_IMG_URL = "https://graph.org/file/64b768cff9c90461692d5.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/64b768cff9c90461692d5.jpg"
+STATS_IMG_URL = "https://graph.org/file/64b768cff9c90461692d5.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/64b768cff9c90461692d5.jpg"
+TELEGRAM_VIDEO_URL = "AgG-RGkAZ8ADfC-ZR2ENTlNbmSHOjsmNBdUfv86SxXTeJwuX_xyjcG5jRQhJ0ug5nNQ5fEP0lgxjmtGVCucjyWFjOFNXgkGfBQpHDmkjjkNGveMJkzMMUQCb9Xfar7uOiER7vqb5q8SVRdsMDAKLpdplw9ZUpJvsrhl2OiFXCnCXPRJzY3ESfoiVsVudejF2pXVdytMymZLvg_yLl4qB7vqfB8IMR7rkoD9_yPmE_Fjlt3nj8op36te140UGxODNOEpJpV5vPeemx7v2M3IhVi3jP-G-EwtTLw4Ju4HcZqEv447RRN70ViPus1HAFmmbtuX2fjLF9fXLqM5j-uEyC3qX-5meGAAAAAGGlv6IAAhttps://graph.org/file/64b768cff9c90461692d5.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
